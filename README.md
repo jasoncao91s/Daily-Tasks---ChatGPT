@@ -28,6 +28,12 @@ It demonstrates AI workflow planning, chain-of-thought organization, and LLM-dri
 pip install -r requirements.txt
 python planner.py demo
 
+File Structure
+ai-daily-planner/
+│── planner.py
+│── requirements.txt
+└── README.md
+
 
 
 --- simplified prompt via ChatGPT for daily tasks. 
