@@ -1,3 +1,36 @@
+
+---
+
+# ✅ **3. `ai-daily-planner/README.md`**
+```md
+# 📅 AI Daily Planner  
+### LLM-powered task organizer, priority system & productivity assistant
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![CLI](https://img.shields.io/badge/Interface-CLI-lightgrey)
+
+This is a command-line AI productivity planner that turns a list of tasks into a structured, prioritized daily schedule.  
+It demonstrates AI workflow planning, chain-of-thought organization, and LLM-driven task breakdowns.
+
+---
+
+## 🚀 Features
+- Task prioritization  
+- Estimated time blocks  
+- Simple CLI interface  
+- Expandable to include LLM API calls  
+- Clean code for demonstration purposes  
+
+---
+
+## ▶️ Demo
+```bash
+pip install -r requirements.txt
+python planner.py demo
+
+
+
+--- simplified prompt via ChatGPT for daily tasks. 
 # Daily-Tasks---ChatGPT
 
 🗓️ Daily Task List (Simple, Fast, and Effective)
